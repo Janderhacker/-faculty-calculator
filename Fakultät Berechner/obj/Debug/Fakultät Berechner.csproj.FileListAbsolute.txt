@@ -1,0 +1,9 @@
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\bin\Debug\Fakultät Berechner.exe.config
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\bin\Debug\Fakultät Berechner.exe
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\bin\Debug\Fakultät Berechner.pdb
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\obj\Debug\Fakultät Berechner.csprojAssemblyReference.cache
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\obj\Debug\Fakultät_Berechner.Form1.resources
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\obj\Debug\Fakultät_Berechner.Properties.Resources.resources
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\obj\Debug\Fakultät Berechner.csproj.GenerateResource.cache
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\obj\Debug\Fakultät Berechner.exe
+C:\Users\jande\Documents\Schule\11\It Hz\Fakultät Berechner\Fakultät Berechner\obj\Debug\Fakultät Berechner.pdb
